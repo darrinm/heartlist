@@ -19,3 +19,6 @@ DEPLOY
 - git push heroku master
 
 (https://devcenter.heroku.com/articles/getting-started-with-python-o)
+
+USAGE: GENERATE NEW HEARTLIST
+- https://heartlist.herokuapp.com/authorize
